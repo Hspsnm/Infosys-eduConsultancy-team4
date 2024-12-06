@@ -20,16 +20,11 @@ The Edu Consultancy System is designed to assist students, parents, and organiza
 6. Payment Management  
 7. Admin Dashboard  
 
----
-
 ## Technology Stack
-- Frontend: Angular/React.js  
+- Frontend: Angular 
 - Backend: Spring Boot  
-- Database: MongoDB/MySQL  
+- Database: MySQL  
 - Security: Spring Security for authentication and role-based access  
-- Testing: JUnit, Mockito  
-
----
 
 ## Project Milestones
 ### Milestone 1: User Authentication and Role Management (Weeks 1-3)
@@ -48,7 +43,6 @@ The Edu Consultancy System is designed to assist students, parents, and organiza
 - Full admin dashboard functionalities.
 - Integrated notification system with email/SMS triggers.
 
----
 Design
 The system follows a modular design, ensuring scalability and maintainability. Key diagrams include:
 - Class Diagram: Entity, service, and repository layers.
